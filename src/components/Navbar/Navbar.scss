@@ -90,7 +90,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: var(--secondary-color);
+    background: var(--zero-color);
 
 
     svg{
@@ -126,7 +126,7 @@
         svg{
             width: 35px;
             height: 35px;
-            color: var(--secondary-color);
+            color: var(--close-color);
             margin: 0.5rem 1rem;
         }
 
