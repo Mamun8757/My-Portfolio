@@ -41,7 +41,7 @@
 
     height: 100%;
 
-    @media screen and(max-width: 2000px) {
+    @media screen and (max-width: 2000px) {
         width: 100%;
         margin-right: 0rem;
     }
@@ -127,7 +127,7 @@
         height: 70px;
     }
 
-    @media screen and(min-width: 2000px) {
+    @media screen and (min-width: 2000px) {
         div:nth-child(1) {
                 width: 400px;
                 height: 400px;
